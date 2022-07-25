@@ -1,8 +1,3 @@
-{
-"type": "FeatureCollection",
-"name": "Case_Study",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Case_Study", "description": null, "tessellate": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -107.700155542800303, 37.889163974486713 ], [ -107.700151727311507, 37.889253587230897 ], [ -107.698385187546805, 37.911440595214223 ], [ -107.723679214604601, 37.912795231626269 ], [ -107.720464887508399, 37.889676411792522 ], [ -107.700155542800303, 37.889163974486713 ] ] ] } }
-]
-}
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-121.9920805170149,46.62398560583937,0],[-121.1678768417785,46.63931890876695,0],[-121.2195844221454,47.05554314986927,0],[-122.1476009461313,47.03172067061636,0],[-121.9920805170149,46.62398560583937,0]]]},"properties":{"name":"Paradise","tessellate":true}}
+]}
